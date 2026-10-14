@@ -1,0 +1,91 @@
+{
+  "day_local": "Feria Tertia Hebdomadae XXVIII per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Misericordia tua veniat ad me, Domine.",
+  "homily": "Fratres et sorores, consideremus hodie imaginem quam Evangelium nobis in silentio cordis proponit: poculum. Non quodlibet poculum, sed vas fictile, exterius lotum, sed interius forsan onustum rapinis et malitia. Antequam verba magistri audiamus, videamus aliquid valde concretum. Cogitate de mensa in conclavi, ubi chartae et instrumenta technologica manent, ubi parva capita inclinat puer ad cogitandum de machinis, de aëroplanis, de illis rebus quas cum patre suo communicabat. Benjamin noster, puer ille cuius mens tam lucida in rebus technologicis versabatur, scivit quid sit inspicere intus, ultra superficiem rerum. Meministisne quomodo ille de rebus aereis, de illis volatibus cogitabat, quomodo oculi eius lucebant cum de itineribus mundi loquebatur? Non erat in eo duplicitas, sed puritas simplex.\n\nSed Iesus hodie in domo Pharisaei reprehendit illos qui curant speciem externam dum intus manent vana et plena onere. Et hic nos oportet sistere gradum et veritatem audire priusquam ad consolationem veniamus. Scio vos, Alan et Thao, Ryan carissime, post quattuor menses adhuc sentire pondus illius absentiae quae domum complet. Interdum, in silentio matutino, subit vobis illa gravis cogitatio, illa tacita vox quae nocte dicit: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hodie hanc vocem apertam: non est in vobis ulla culpa. Infirmitas non est poena; morbus non est defectus amoris vestri. Vos nihil omisistis. Illae curae nocturnae, illa pondera quae tacite fertis, non veniunt a Patre luminum. Deus non mittit dolorem ad probandum amorem. Dolor venit sicut tempestas in mari, sine culpa nautae. Vos fuistis parentes et frater qui omnem passum iuxta Benjamin ambulastis cum corde pleno, ab initiis illis usque ad supremum diem.\n\nAudite hanc veritatem penitus: non est in vobis locus suspicionis. Non est morbus ex ullo defectu vestro. Sicut Iesus dicit de cupis et patinis, interiora sunt quae Deo placent. Et Ben, in sua vita brevis sed plena, quid dedit? Non solum cogitationes magnas de computatris, sed cor tam mite. Meministisne illius momenti cum ille, quindecim annos natus, voluit offerre totum suum piggy bank avunculo suo qui duobus ictibus laborabat? Non fregit capsulam, non effudit nummos, sed simplici voluntate dixit se totum velle dare. In hoc animo qui nihil sibi retinebat, videmus verum thesaurum.\n\nAd vos omnes loquor, specialiter ad te, Ryan, frater carissime, qui cum Benjamin ambulaveras in omnibus viis. Tu et frater tuus eratis sicut duae alae unius avis. Noli timere hanc viam. Ben non est longe; ipse tecum est in omni risu, in omni memoria illius itineris. Perge vivere, perge studere, perge ridere, quia in tuo risu Benjamin pergit in terra operari. Et ad vos, Alan et Thao, qui tam graviter laboratis et fertis crucem matris et patris orbati: nolite timere lacrimas vestras. Deus non est alienus a fletu vestro. Ipse tenet lacrimas vestras.\n\nSi forte hodie quaeritis quid ex hoc loco portare debetis, capite hanc unam rem: munditiam cordis quae in caritate consistit. Cum redieritis ad domum vestram, et videritis res Ben, nolite timere. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Pater, in manus tuas commendo spiritum eius.' Benjamin est in pace, in convivio caeli, ubi nullus dolor, nulla infirmitas, sed tantum lux. Ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. Ambulate in hac spe. Vos estis amati. Vos estis in manu Dei. Amen.",
+  "spiritual_communion": "Mi Iesu, credo Te in Sanctissimo Sacramento adesse. Amo Te super omnia, et desidero ut anima mea Te recipiat. Cum iam sacramentaliter Te recipere non possit, saltem spiritualiter veni in cor meum. Tamquam iam advenisse Te amplector, et totum me tibi coniungo; ne permittas me umquam a Te separari. Amen.",
+  "closing": "Benedictio Dei Omnipotentis, Patris, et Filii, et Spiritus Sancti, descendat super vos et maneat semper. Amen.",
+  "petition_call": "Oremus ad Dominum.",
+  "petition_response": "Domine, exaudi orationem nostram.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Conclusio"
+  },
+  "standing_petitions": [
+    "Pro puero Ben et omnibus qui defuncti sunt, ut in luce Christi aeternam pacem inveniant, rogemus Dominum.",
+    "Pro omnibus qui lugent et gravem crucem portant, ut a Deo consolationem et spem accipiant, rogemus Dominum."
+  ],
+  "readings": [
+    {
+      "label": "Lectio Prima",
+      "cite": "Galatarum 5:1-6",
+      "text": "Fratres et sorores: Statuite, et nolite iterum iugo servitutis detineri. Ecce ego Paulus dico vobis, quod si circumcidamini, Christus vobis nihil proderit. Testificor autem iterum omni homini circumcidenti se, quoniam debitor est universi legis faciendae. Evacuati estis a Christo, quicumque in lege iustificamini; a gratia excidistis. Nos enim Spiritu ex fide spem iustitiae exspectamus. Nam in Christo Iesu neque circumcisio quid valet, neque praeputium, sed fides, quae per caritatem operatur."
+    },
+    {
+      "label": "Psalmus Responsorius",
+      "cite": "Psalmi 119:41, 43, 44, 45, 47, 48",
+      "text": "R. Misericordia tua veniat ad me, Domine.\nEt veniat super me misericordia tua, Domine: salutare tuum secundum eloquium tuum.\nR. Misericordia tua veniat ad me, Domine.\nEt ne auferas de ore meo verbum veritatis usquequaque, quia in iudiciis tuis supersperavi.\nR. Misericordia tua veniat ad me, Domine.\nEt custodiam legem tuam semper, in saeculum et in saeculum saeculi.\nR. Misericordia tua veniat ad me, Domine.\nEt ambulabo in latitudine, quia mandata tua exquisivi.\nR. Misericordia tua veniat ad me, Domine.\nEt meditabor in mandatis tuis, quae dilexi.\nR. Misericordia tua veniat ad me, Domine.\nEt levabo manus meas ad mandata tua, quae dilexi, et exercebor in iustificationibus tuis.\nR. Misericordia tua veniat ad me, Domine."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Lucae 11:37-41",
+      "text": "In illo tempore: Rogavit autem illum Pharisaeus ut manducaret apud se. Et ingressus recubuit. Pharisaeus autem vidit, et miratus est quod non baptizatus esset ante prandium. Et dixit Dominus ad illum: Nunc vos Pharisaei quod extrinsecus est calicis et parapsidis mundatis, quod autem intus est vestrum, plenum est rapina et iniquitate. Stulti, nonne qui fecit quod foris est, et id quod intus est fecit? Verumtamen date eleemosynam, et ecce omnia munda sunt vobis."
+    }
+  ],
+  "day": "Tuesday of the Twenty-eighth Week in Ordinary Time",
+  "date": "2026-10-13",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    }
+  ]
+}

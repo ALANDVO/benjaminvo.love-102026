@@ -1,0 +1,91 @@
+{
+  "day_local": "Dydd Gwener yr Ail Wythnos ar Hugain mewn Amser Cyffredin",
+  "greeting": "Yn enw’r Tad, a’r Mab, a’r Ysbryd Glân. Boed i heddwch a gras ein Harglwydd Iesu Grist fod gyda phob un ohonoch.",
+  "penitential": "Arglwydd, trugarha wrthym.\nGrist, trugarha wrthym.\nArglwydd, trugarha wrthym.",
+  "psalm_response": "Bydd yr Arglwydd yn cofio ei gyfamod am byth.",
+  "homily": "Meddyliwch am y ffordd y mae rhywun yn gafael mewn llythyr neu hen docyn teithio, yn troi’r papur rhwng ei fysedd ac yn cofio’r union eiliad y cafodd ei ysgrifennu. Mae’r papur yn ddistaw, ond mae’n dal stori gyfan. Heddiw, yn y darlleniadau, rydym yn clywed sôn am addewid sydd wedi teithio trwy ganrifoedd, addewid a wnaed i Abraham ac sy’n cyffwrdd â ni heddiw. Dywed yr Apostol Paul wrthym am y ffydd honno sy’n cysylltu pob cenhedlaeth â gweithredoedd cariad a gras Duw.\n\nEdrychwch ar y ddelwedd hon o’r cyfamod – llinell ddistaw ond anorchfygol sy’n cysylltu’r nefoedd â’r ddaear. Mae fel edefyn aur sy’n rhedeg drwy bob tudalen o’r Ysgry",
+  "spiritual_communion": "Fy Iesu, rwy’n credu dy fod yn bresennol yn y Sgrifen Fendigaid. Rwy’n dy garu dros bob peth, ac rwy’n dymuno dy dderbyn i’n enaid. Gan na allaf dy dderbyn yn y Sacrament nawr, tyrd yn ysbryd at fy nghalon. Rwy’n dy gofleidio fel pe bawn eisoes yno, ac rwy’n unioni fy hun yn gyfan gwbl atyt; peidi a chaniatáu i mi byth gael fy nenu oddi wrthyt.",
+  "closing": "Boed i fendith Duw Hollalluog, y Tad, a’r Mab, a’r Ysbryd Glân, ddismuso arnoch a aros gennych byth bythoedd. Amen.",
+  "petition_call": "Gweddiwn ar yr Arglwydd.",
+  "petition_response": "Arglwydd, gwrando ar ein gweddi.",
+  "labels": {
+    "opening": "Y Agoriad",
+    "penitential": "Defod Ddistewwch",
+    "word": "Y Gair Sanctaidd",
+    "homily": "Y Bregeth",
+    "petitions": "Y Gweddiau",
+    "communion": "Cymundeb Ysbrydol",
+    "closing": "Y Bendith"
+  },
+  "standing_petitions": [
+    "Dros Benjamin a phob un a aeth o’n blaenau, y cânt orffwys yn goleuni Crist ac mewn heddwch tragwyddol.",
+    "Dros bawb sy’n galaru, yn arbennig y rhai sy’n teimlo trwm, y bydd Duw yn eu cysuru ac yn rhoi gobaith iddynt."
+  ],
+  "readings": [
+    {
+      "label": "Y Darlleniad Cyntaf",
+      "cite": "Galatiaid 3:7-14",
+      "text": "Brodyr a chwiorydd: Gwybyddwch mai’r rhai sydd o ffydd, y maent hwy yn blant i Abraham. A’r Ysgrythyr, gan ragweld y byddai Duw yn cyfiawnhau y cenhedloedd trwy ffydd, a bregethodd y newydd daion i Abraham gynt, a dywededig, Yn the iky y bendithir pob cenhedlaeth. Felly y rhai sydd o ffydd a fendithir gydag Abraham ffyddlon. Canys y mae pawb sydd o waith y gyfraith dan felltith; o heriob ei hysgrifenedig, Melltithiedig yw pawb nid arhoso ym mhob peth a ysgrifenedig yn llyfr y gyfraith i’w gwneud. Ac na chyfiawnheir neb gerbron Duw yn y gyfraith, hyn sydd amlwg; o herwydd y cyfiawn a fydd fyw o ffydd. Eithr y gyfraith nid yw o ffydd; ond y gŵr a wnel y pethau hyn a fydd fyw trwyddynt. Crist a’n prynu ni oddi wrth felltith y gyfraith, trwy ddigwydd yn felltith drostom ni; o herwydd ysgrifenedig yw, Melltithiedig yw pawb a bitwy ar bren: Fel y deui bendith Abraham ar y cenhedloedd trwy Grist Iesu; fel y derbynnom addewid yr Ysbryd trwy ffydd."
+    },
+    {
+      "label": "Y Salm Resymol",
+      "cite": "Salm 111:1b-2, 3-4, 5-6",
+      "text": "R. Bydd yr Arglwydd yn cofio ei gyfamod am byth.\nMi ddiolchaf i’r Arglwydd a’m holl calon, yn nghwmni a chynulliad y cyfiawn. Mawr yw gweithredoedd yr Arglwydd, ceisiadwy gan bawb a’u hoff.\nR. Bydd yr Arglwydd yn cofio ei gyfamod am byth.\nGogoniant a mawrhydi yw ei waith, ac y mae ei gyfiawnhad yn aros am byth. Gwnaeth goffadwriaeth am ei ryfeddodau; trugarog a thosturus yw yr Arglwydd.\nR. Bydd yr Arglwydd yn cofio ei gyfamod am byth.\nBwyd a roddes ef i’r rhai a’i theimlant; bydd yn cofio ei gyfamod yn oes oesoedd. Dangosodd i’w bobl allu ei weithredoedd, wrth roi iddynt etifeddiaeth y cenhedloedd.\nR. Bydd yr Arglwydd yn cofio ei gyfamod am byth."
+    },
+    {
+      "label": "Yr Efengyl",
+      "cite": "Luc 11:15-26",
+      "text": "Ac pan fwriodd Iesu allan ddifrif, rhai o’r dorf a ddywedasant, Trwy Beelzebub tywysog y cythreuliaid y bwrw ef allan y cythreuliaid. Ac eraill, gan ei brofi, a geisiasant ganddo arwydd o’r nef. Eithr ef, gan wybod eu meddwl, a ddywedodd wrthynt, Pob teyrnas a ranner yn erbyn ei hunan a ddisgyn yn anial; a thŷ a ddisgyn yn erbyn tŷ. Ac os Satan a ranner yn erbyn ei hunan, megis y gorfydd ei deyrnas ef? o herwydd y dywedwch mai trwy Beelzebub y bwrw i ffwrdd ohonof y cythreuliaid. Ac os myfi trwy Beelzebub a bwrw allan y cythreuliaid, trwy bwy y bwrw eich meibion chwi hwynt allan? Am hynny hwy a fyddant yn farnwyr arnoch. Eithr os trwy fys Duw y bwrw fi allan y cythreuliaid, y mae teyrnas Dhuw yn sicr wedi dyfod arnoch. Pan fo gŵr cadarn arfog yn cadw ei lys, yn heddychlon y mae ei nwyddau; Eithr pan ddel un cryfach nag ef, a’i gorchfygu, efe a ddyge ei holl arfogaeth y bu yn ymddiried ynddi, ac a ran ei ysbail. Pwy bynag nad yw gyda mi, efe a’r yn fy erbyn; a phwy bynag nid yw yn casglu gyda mi, efe a wasgara. Pan êl yr ysbryd aflan o’r gŵr, efe a ddyrys trwy leoedd sychion, gan ddysgwyl gorffwys; ac heb gael, y dywed, Dychwelaf i’m tŷ o’r hwn y dehrais. Ac pan ddêl, efe a’i caiff wedi ei ysgubo a’i drefnu. Yna y petha, ac a ddwyr saith ysbryd ereill waeth nag ef ei hun, a hwy a aethant i mewn ac a anheddant yno; a diweddar orwedd y gŵr hwnnw a fydd waeth na’r cyntaf."
+    }
+  ],
+  "day": "Friday of the Twenty-seventh Week in Ordinary Time",
+  "date": "2026-10-09",
+  "lang": "cy",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    }
+  ]
+}

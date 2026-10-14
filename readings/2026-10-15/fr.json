@@ -1,0 +1,91 @@
+{
+  "day_local": "Mémoire de Sainte Thérèse de Jésus, Vierge et Docteur de l'Église",
+  "greeting": "Au nom du Père, et du Fils, et du Saint-Esprit. Que la grâce et la paix de Dieu notre Père et du Seigneur Jésus-Christ soient avec vous tous.",
+  "penitential": "Seigneur, prends pitié de nous.\nO Christ, prends pitié de nous.\nSeigneur, prends pitié de nous.",
+  "psalm_response": "Le Seigneur a fait connaître son salut.",
+  "homily": "Il y a des objets dans une maison qui gardent une présence singulière, presque obstinée, comme cette collection de carnets où Benjamin griffonnait ses projets, ses idées de logique, et ces calculs d’aviation qu’il menait avec une minutie d’adulte. À quinze ans, Ben ne se contentait pas de regarder le monde ; il cherchait à en comprendre la charpente. Il y avait en lui cette curiosité vive, ce regard tourné vers l'immensité du ciel et les lignes de vol qu'il rêvait un jour de tracer, s'amusant à imaginer les contours de cette compagnie aérienne qu'il appelait avec un sourire espiègle « Con Chim Airlines ». Il riait souvent, de ce petit rire contagieux qui éclairait le visage de ses parents. Pour lui, tout était promesse, tout était élan vers l'avant.\n\nMais aujourd'hui, quatre mois après ce 13 juin 2026, ce silence pèse lourd dans la maison. Alan, Thao, Ryan, vous regardez ce vide, et vous vous demandez parfois comment porter la suite. Vous vous souvenez de sa voix, de sa tendresse, de ce garçon si attentif aux autres qu'il avait proposé, de lui-même, d'offrir toutes ses économies pour secourir son oncle malade, sans même avoir besoin de briser sa tirelire, par simple élan du cœur. Cet amour-là ne s'éteint pas. Et pourtant, la douleur est là, immense, lancinante.\n\nLaissez-moi vous dire, avec toute la douceur de Dieu : vous n’avez rien manqué. Dans le secret de vos cœurs, ne laissez aucune culpabilité rôder, aucun « si seulement » venir empoisonner la mémoire de votre dévouement. On ne retient pas la vie par la force, et l'amour que vous lui avez donné a été un refuge parfait. Cette épreuve n'est en rien une punition, ni la conséquence d'un oubli ou d'une défaillance. Dieu ne pointe pas du doigt des coupables dans la souffrance ; Il pleure avec ceux qui pleurent. Vous avez été des parents admirables, et Ryan a été et demeure un frère béni.\n\nRegardez la première lecture, dans la lettre aux Éphésiens. Saint Paul nous rappelle le dessein d'amour de Dieu : « Il nous a choisis en lui, dès avant la fondation du monde, pour que nous soyons saints et immaculés en sa présence, dans l'amour. » C'est cela qui a enveloppé la vie de Ben. Sa vie n'a pas été écourtée par accident ou par oubli divin ; elle a été accomplie dans le mystère de cette grâce. Dieu l’avait préparé pour Son éternité. Le plan du Seigneur n'est pas mesuré par le nombre de nos années, mais par la profondeur de l'amour que nous avons reçu et donné.\n\nEt pourtant, l’Évangile d'aujourd'hui nous confrète à des résistances, à ces moments où les hommes ferment leur cœur à la sagesse de Dieu. Jésus dénonce ceux qui ferment les portes de la connaissance, ceux qui s'enferment dans des logiques étroites. Mais au milieu de cette sévérité, il y a la lumière de la Sagesse divine qui traverse les siècles. Ben avait accueilli cette sagesse avec la simplicité de sa jeunesse. Il ne cherchait pas à compliquer le monde ; il l'aimait. \n\nRyan, mon garçon, regarde-moi. Ton frère Ben ne s’est pas évaporé dans le néant. Il est dans la lumière de Dieu, vivant, plus présent que jamais. Ne crains pas d'avancer, de rêver, de vivre pleinement. Ben est là, à tes côtés, comme un grand frère céleste qui t'encourage à chaque pas. Quand tu penses à lui, souviens-toi de son sourire.\n\nAlan et Thao, je sais que vous cherchez sa trace dans vos nuits, dans vos rêves, dans ce désir brûlant de le revoir. Cette soif est sainte. Le puits que vous avez fait naître à Cà Mau pour désaltérer les plus pauvres en son nom, ce geste d'amour anonyme et pur, prolonge son souffle. L'eau qui jaillit là-bas est un peu de la vie de Ben qui continue de irriguer le monde. \n\nAlors, que pouvez-vous emporter aujourd'hui ? Une seule certitude : l'amour ne meurt pas. Déposez vos fardeaux, pardonnez-vous tout ce que vous croyez avoir raté, car Dieu a tout enveloppé de sa miséricorde. Ben vous attend dans la paix de Dieu. Marchez la main dans la main, doucement, un jour après l'autre, sachant que l'amour est plus fort que la mort. Amen.",
+  "petitions": [
+    "Pour notre cher Benjamin et pour tous ceux qui nous ont quittés, afin qu'ils reposent dans la lumière et la paix du Christ, prions le Seigneur.",
+    "Pour ses parents Alan et Thao, pour son frère Ryan, et pour tous ceux qui portent le poids du deuil, afin que Dieu les console et leur redonne l'espérance, prions le Seigneur."
+  ],
+  "spiritual_communion": "Mon Jésus, je crois fermement que tu es present dans le Très Saint Sacrement. Je t'aime par-dessus tout et je désire te recevoir dans mon âme. Ne pouvant pas te recevoir sacramentellement maintenant, viens au moins spirituellement dans mon cœur. Je t'embrasse comme si tu y étais déjà, et je m'unis entièrement à toi; nepermets jamais que je sois séparé de toi. Amen.",
+  "closing": "Que le Seigneur vous bénisse et vous garde, qu'il fasse briller sur vous son visage et vous accorde sa paix, au nom du Père, et du Fils, et du Saint-Esprit. Amen.",
+  "petition_call": "Prions le Seigneur.",
+  "petition_response": "Seigneur, écoute-nous et exauce-nous.",
+  "labels": {
+    "opening": "Ouverture",
+    "penitential": "Acte pénitentiel",
+    "word": "Liturgie de la Parole",
+    "homily": "Homélie",
+    "petitions": "Prières universelles",
+    "communion": "Communion spirituelle",
+    "closing": "Bénédiction de clôture"
+  },
+  "readings": [
+    {
+      "label": "Première lecture",
+      "cite": "Éphésiens 1, 1-10",
+      "text": "Paul, Apôtre du Christ Jésus par la volonté de Dieu, aux saints qui sont à Éphèse et qui croient dans le Christ Jésus : à vous, la grâce et la paix de la part de Dieu notre Père et du Seigneur Jésus-Christ. Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, qui nous a bénis et comblés de toutes sortes de bénédictions spirituelles aux cieux, dans le Christ. Il nous a choisis en lui, dès avant la fondation du monde, pour que nous soyons saints et immaculés en sa présence, dans l'amour. Il nous a prédestinés à être, pour lui, des fils adoptifs par Jésus Christ : tel a été son bon plaisir, à la louange de la gloire de sa grâce, dont il nous a comblés dans le Bien-aimé. En lui, par son sang, nous avons la rédemption, la rémission de nos fautes selon la richesse de sa grâce. Il l'a fait abonder envers nous en toute sagesse et intelligence, en nous faisant connaître le mystère de sa volonté, selon le bienveillant dessein qu'il avait forgé en lui-même pour mener les temps à leur plénitude : récapituler toutes choses dans le Christ, celles qui sont dans les cieux et celles qui sont sur la terre."
+    },
+    {
+      "label": "Psaume responsorial",
+      "cite": "Psaume 97 (98), 1, 2-3ab, 3cd-4, 5-6",
+      "text": "R. Le Seigneur a fait connaître son salut.\nChantez au Seigneur un chant nouveau, car il a fait des merveilles ; par sa main victorieuse, par son bras saint, il s'est assuré la victoire.\nR. Le Seigneur a fait connaître son salut.\nLe Seigneur a fait connaître son salut et révélé sa justice aux yeux des nations. Il s'est rappelé sa fidélité, son amour, en faveur de la maison d'Israël.\nR. Le Seigneur a fait connaître son salut.\nLa terre tout entière a vu le salut de notre Dieu. Acclamez le Seigneur, terre entière, sonnez, chantez, jouez !\nR. Le Seigneur a fait connaître son salut.\nJouez pour le Seigneur sur la cithare, sur la cithare et tous les instruments ; au son de la trompette et du cor, acclamez votre roi, le Seigneur !\nR. Le Seigneur a fait connaître son salut."
+    },
+    {
+      "label": "Évangile",
+      "cite": "Luc 11, 47-54",
+      "text": "En ce temps-là, Jésus disait : « Quel malheur pour vous, parce que vous bâtissez les tombeaux des prophètes que vos pères ont tués. Ainsi vous témoignez que vous approuvez les œuvres de vos pères, puisque Eux, ils les ont tués, et vous, vous bâtissez. C'est pourquoi la Sagesse de Dieu elle-même avait dit : Je leur enverrai des prophètes et des apôtres ; ils les tueront et les persécuteront. Ainsi, on demandera compte à cette génération du sang de tous les prophètes qui a été versé depuis la fondation du monde, depuis le sang d'Abel jusqu'au sang de Zacharie, qui a péri entre l'autel et le sanctuaire. Oui, je vous le dis, on en demandera compte à cette génération. Quel malheur pour vous, docteurs de la Loi, parce que vous avez enlevé la clé de la connaissance ; vous-mêmes n'êtes pas entrés, et ceux qui entraient, vous les avez empêchés. » Quand Jésus fut sorti de là, les scribes et les pharisiens commencèrent à le presser durement et à le faire parler sur beaucoup de sujets, guettant la moindre parole pour le prendre en faute."
+    }
+  ],
+  "day": "Memorial of Saint Teresa of Jesus, Virgin and Doctor of the Church",
+  "date": "2026-10-15",
+  "lang": "fr",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    }
+  ]
+}

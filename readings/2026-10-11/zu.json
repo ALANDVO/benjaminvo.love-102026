@@ -1,0 +1,96 @@
+{
+  "day_local": "ISonto lama-28 ngexesha eliqhelekileyo",
+  "greeting": "Egameni likaYise, neloNyana, neloMoya oyiNgcwele. Makube noxolo lwenkosi, uYesu Kristu, lube nani nonke.",
+  "penitential": "Nkosi, ube nenceba kuthi.\nKristu, ube nenceba kuthi.\nNkosi, ube nenceba kuthi.",
+  "psalm_response": "Ndiya kuhlala endlwini yeNkosi yonke imihla yobomi bam.",
+  "homily": "Cinga ngomzuzu apho uBenjamin Vo, esesemncinci, ehlala phantsi ekhaya, ekhangela iimephu kunye neendlela zeenqwelo-moya kwikhompyutha yakhe. Wayengumfana owayenomdla ongapheliyo, esakha ikamva lakhe ngengqondo eqaqambileyo eyayikwazi ukubona ngaphaya kwento ebonwa ngamehlo. Wayethanda ukucacisa ngale 'con chim airlines' yakhe, ebonisa ukuba intliziyo yakhe yayingeyiyo nje eyobuchwephesha, kodwa eyayizaliswe lithemba elikhulu. Namhlanje, kwiVangeli, uYesu usixelela ngomkhosi omkhulu: 'Biza bonke abantu abafumanayo, abalungileyo nabangendawo.' Lo mfanekiso wesimemo esiya kwisidlo somtshato usikhumbuza ukuba uBukumkani bukaThixo abukhethi mntu. Bubudlelwane obunzulu, obungapheliyo, obufuna ukuba sibe nempahla entle yothando entliziyweni yethu.\n\nKwiNcwadi ka-Isaya, uThixo uthembisa ukuba uya 'kutshabalalisa ukufa ngonaphakade.' Uthembisa ukusula iinyembezi ebusweni babo bonke abantu. La mazwi ayavakala nzulu kuthi namhlanje, Alan noThao, nani Ryan, njengoko sijonga emva kwiinyanga ezintathu uBen ebuyele kuThixo. UBenjamin wayeyazi le nto ngendlela yobuntwana bakhe. Wayengumfana owayephulaphula, owayenika, owayezama ukwenza uthando lube yinto ebonakalayo. Wayengumfana owayephila ngoxolo lukaKristu. WayengumSamariya olungileyo ebomini bakhe, ebonisa uthando olungenamiqathango. UBen wayengumfana owayephila ngoluxolo. Wayengumfana owayezisa uxolo ekhaya.\n\nNdifuna ukuthetha inyaniso enzulu kakhulu: akukho nqaku lokuthi uphosile okanye wenze kakubi. Ukugula akwanga kwenzeka ngenxa yezinto owazenzayo okanye ongazenzanga. UThixo akakubeki icala, kwaye noBen akakubeki icala. Masikhuphe lo mthwalo wokuzisola emajukujukwini eentliziyo zenu namhlanje. Awuphosanga nto. Ubenze konke okusemandleni enu ngothando olungapheliyo. Ezinye izinto zenzeka ngaphandle kolawulo lwethu, ngaphandle kokuba nabani na enze impazamo. Niyinyaniso, nithandwa nguThixo ngokupheleleyo.\n\nKhumbula indlela uBen awayenentliziyo enobubele ngayo. Khumbula loo mzuzu xa wayefuna ukunikela ngayo yonke imali yakhe yasebhange encinci ukuze ancede umalume wakhe uWilliam owayehlaselwe zizifo. Akazange ayiphule loo ngulube yemali, akazange ayikhuphule ngokoqobo, kodwa isipho sasingaphakathi entliziyweni yakhe. Wayengumfana owayenokunikela ngayo yonke into yakhe ngaphandle kokubala. Wayengumfana owayephila ngoxolo lukaKristu. WayengumSamariya olungileyo ebomini bakhe, ebonisa uthando olungenamiqathango. UBen wayengumfana owayephila ngoluxolo.\n\nRyan, mfowethu omncane, uBen uyaqhubeka ekuthanda. Khumbula indlela uBen awayekuthanda ngayo, indlela awayekujonga ngayo njengomntu okhethekileyo. Ungalokothi uzive ungedwa. UBen uyaqhubeka ehamba nawe. Xa uziva usizi, khumbula ukuba uBen uyaqhubeka ekhanya. Uthando lwakhe aluzange luphele; lusaqhubeka lukhanya njengolwandle olukhulu. Uthando lwenu luyaqhubeka luhleli, lusaqhubeka lukhula, kwaye uBen uyaqhubeka ekhanya. Benjamin, lala ngokuthula. Uthando lwakho lulukhanya olungasoze lwavaleleka. Siya kukukhumbula njalo, side sidibane kwakhona apho kungekho nyembezi, apho kukho uvuyo olungunaphakade. UYesu uthi: 'Biza bonke abantu abafumanayo.' Masiphile ke ngeli lizwi namhlanje, sithandane njengokuba uBen wayesithanda, kwaye sithembe ukuba uThixo uya kusikhokelela kude kube lixesha lokuba siphinde sidibane naye apho kungekho ntlungu, apho kukho uvuyo olungunaphakade. Amen.",
+  "spiritual_communion": "Nkosi yam uYesu, ndiyakholwa ukuba ukhona kwiSakramente eliNgcwele. Ndiyakuthanda ngaphezu kwako konke, kwaye ndinqwena ukukwamkela emphefumlweni wam. Ekubeni ndingenakukwamkela ngoku kwiSakramente, nceda uze kum ngomoya. Ndikwamkela njengokuba sele ukhona, kwaye ndizidibanisa nawe ngokupheleleyo. Ungaze undivumele ndahlukane nawe. Amen.",
+  "closing": "Makube nani uxolo lukaThixo, kwaye uBen makahlale ekhanyeni lothando lwakhe ngonaphakade.",
+  "petition_call": "Sithandaza eNkosini.",
+  "petition_response": "Nkosi, yiva umthandazo wethu.",
+  "labels": {
+    "opening": "Ukuvulwa",
+    "penitential": "Isicelo soxolelo",
+    "word": "Ilizwi likaThixo",
+    "homily": "Intshumayelo",
+    "petitions": "Izicelo",
+    "communion": "Ubudlelwane boMoya",
+    "closing": "Isiphelo"
+  },
+  "standing_petitions": [
+    "Sithandazela uBen nabo bonke abaswelekileyo, ukuze baphumle ekukhanyeni kukaKristu ngonaphakade.",
+    "Sithandazela bonke abasemlilweni wokuzila, ukuze uThixo abathuthuzele abanike ithemba."
+  ],
+  "readings": [
+    {
+      "label": "Isifundo sokuqala",
+      "cite": "Isaiah 25:6-10a",
+      "text": "Ngaloo ntaba iNkosi yemikhosi iya kubenzela bonke abantu isidlo sokutya okutyebileyo newayini ekhethiweyo, ukutya okutyebileyo okumnandi newayini emsulwa ekhethiweyo. Ngaloo ntaba iya kutshabalalisa isigqubuthelo esigqubuthela bonke abantu, umnatha owalukwe phezu kwazo zonke iintlanga; iya kutshabalalisa ukufa ngonaphakade. INkosi uThixo iya kusula iinyembezi ebusweni babo bonke abantu; isingcikivo sabantu bayo iya kusisusa emhlabeni wonke; kuba iNkosi ithethile. Ngaloo mini kuya kuthiwa: 'Nanku uThixo wethu, ebesimlindele ukuba asisindise! Le yiyo iNkosi ebesiyilindele; masivuye sigcabe ngokuba usisindisile!' Kuba isandla seNkosi siya kuhlala phezu kwale ntaba."
+    },
+    {
+      "label": "INdumiso",
+      "cite": "Psalm 23:1-3a, 3b-4, 5, 6",
+      "text": "R. Ndiya kuhlala endlwini yeNkosi yonke imihla yobomi bam. INkosi ingumalusi wam; andiyi kuswela nto. Emadlelweni aluhlaza indinika ukuphumla; ecaleni kwamanzi azolileyo indikhokela; iyawuhlaziya umphefumlo wam. R. Ndiya kuhlala endlwini yeNkosi yonke imihla yobomi bam. Indikhokela ezindleleni ezilungileyo ngenxa yegama layo. Nangona ndihamba entilini yethunzi lokufa, andoyiki bubi; kuba unam, ngentonga yakho nengcongolo yakho ezindinika isibindi. R. Ndiya kuhlala endlwini yeNkosi yonke imihla yobomi bam. Uwandlala itheyibhile phambi kwam emehlweni eentshaba zam; uthambisa intloko yam ngeoli; indebe yam iyaphuphuma. R. Ndiya kuhlala endlwini yeNkosi yonke imihla yobomi bam. Ububele nenceba kuphela okundilandelayo yonke imihla yobomi bam; kwaye ndiya kuhlala endlwini yeNkosi imihla emininzi. R. Ndiya kuhlala endlwini yeNkosi yonke imihla yobomi bam."
+    },
+    {
+      "label": "Isifundo sesibini",
+      "cite": "Philippians 4:12-14, 19-20",
+      "text": "Bazalwana noodade: Ndiyazi indlela yokuphila kwiimeko zokuthobeka; ndiyazi kwindlela yokuphila ngobuninzi. Kuzo zonke iimeko nasezintweni zonke ndifunde imfihlelo yokuhlutha neyokulamba, eyokuhlala ngobuninzi neyokuswela. Ndinako ukwenza izinto zonke kuye ondomelezayo. Noko ke, bekulungile ukuba nabelane ngentlungu yam. UThixo wam uya kuninika konke enikufunayo, ngokobutyebi bakhe obuzukileyo kuKristu Yesu. KuThixo wethu noYise, makube ludumo ngonaphakade kanaphakade. Amen."
+    },
+    {
+      "label": "IVangeli",
+      "cite": "Matthew 22:1-14",
+      "text": "UYesu waphinda wathetha kubabingeleli abaziintloko nakubadala babantu ngemizekeliso, esithi, 'Ubukumkani bamazulu bunokufaniswa nokumkani owenza isidlo somtshato sonyana wakhe. Wathumela abakhonzi bakhe ukuba babize abamenyiweyo esidlweni, kodwa bala ukuza. Okwesibini wathumela abanye abakhonzi, esithi, \"Xelelani abamenyiweyo: 'Nanku, ndilungiselele isidlo sam, iinkomo zam neenkomo ezityebileyo zixheliwe, kwaye yonke into ilungile; yizani esidlweni.'\" Abanye abazange baphulaphule isimemo bemka, omnye waya emasimini akhe, omnye kwishishini lakhe. Abanye babamba abakhonzi bakhe, babaphatha kakubi, bababulala. Ukumkani waba nengqumbo wathumela imikhosi yakhe, yatshabalalisa abo babulali, yatshisa umzi wabo. Wathi kubakhonzi bakhe, \"Isidlo silungile, kodwa abo bamenyiweyo babengafanelanga ukuza. Hamba ke, niye ezindleleni ezinkulu, nimenze esidlweni nabani na nimfumanayo.\" Abakhonzi baphuma baya ezitalatweni, baqokelela bonke ababafumanayo, ababi nabaLungileyo, kwaye iholo yazala ziindwendwe. Kodwa xa ukumkani engena ukudibana neendwendwe, wabona indoda apho inganxibanga ngubo yomtshato. Ukumkani wathi kuye, \"Mhlobo wam, kutheni uze apha ungenangubo yomtshato?\" Kodwa wathi cwaka. Wandula ke ukumkani wathi kubalindi, \"Bophani izandla neenyawo zakhe, nimphose ebumnyameni obungaphandle, apho kuya kubakho ukulila nokugaya amazinyo.\" Baninzi abamenyiweyo, kodwa bambalwa abanyuliweyo.'"
+    }
+  ],
+  "day": "Twenty-eighth Sunday in Ordinary Time",
+  "date": "2026-10-11",
+  "lang": "zu",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    }
+  ]
+}

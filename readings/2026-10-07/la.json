@@ -1,0 +1,91 @@
+{
+  "day_local": "Memoria Beatae Mariae Virginis a Rosario",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Ite in mundum universum, et praedicate Evangelium.",
+  "homily": "Fratres et sorores, consideremus hodie imaginem textus, quae in silentio cordis nostri vibrat: manus. In lectione prima, Paulus Apostolus narrat quomodo Iacobus, Cephas et Ioannes, qui columnae videbantur, sibi et Barnabae dextras dederint in societatem. Illa dextra iuncta non erat solum signum pacti, sed signum agnitionis gratiae. Estne haec imago procul a nobis? Nonne omnes quaerimus illam manum, illam firmam tenacitatem, quae in medio incertitudinis nos confirmat?\n\nBenjamin noster, puer ille cuius mens tam lucida in rebus technologicis versabatur, scivit quid sit manum praebere. Meministisne, fratres, illius momentis cum Ryan fratre suo in ludo versabatur? Cogitate de illa imagine ubi ambo, in vestibus 'Pilot' induti, prope clavile stant. Manus eorum non erant solum membra corporis; erant signa foederis fraterni. Benjamin, in sua ingenuitate, semper fuit ille qui societatem quaerebat. Ipse non vivebat in solitudine sui ingenii, sed in communione amoris. Ipse, sicut Paulus in lectione, intellexit se non currere in vacuum, quia scivit se in manibus Dei esse.\n\nSed audite me, Alan et Thao, Ryan carissime. Post tres menses, scio vos in hac via inter desiderium et spem ambulare. Interdum, in domo vestra, cum videtis res quas Ben tetigit—libros, computatra, vel illa vestigia 'Con Chim Airlines'—sentitis vos sicut Paulus, qui vult veritatem Gospel in cordibus suis servare, sed sentit pondus separationis. Forsitan subit vobis illa gravis cogitatio, illa tacita vox quae nocte dicit: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hodie veritatem: 'Neuter peccavit, neque parentes eius.' Infirmitas non est poena; morbus non est defectus amoris vestri. Vos nihil omisistis. Non est in vobis ulla culpa. Deus non vos accusat, et ego vos in nomine eius absolvo ab omni pondere suspicionis. Illae curae nocturnae, illa pondera quae tacite fertis, non veniunt a Patre luminum. Deus non mittit dolorem ad probandum amorem. Dolor venit sicut tempestas, sine culpa nautae. Vos fuistis parentes et frater qui omnem passum iuxta eum ambulastis cum corde pleno, ab initiis illis usque ad supremum diem.\n\nIn Evangelio hodierno, discipuli ad Iesum accedunt et dicunt: 'Domine, doce nos orare.' Iesus non dat eis formulam abstractam, sed dat eis nomen: 'Pater.' Hoc est cor orationis. Benjamin, noster 'Pilot', scivit hoc nomen. Ipse, in sua curiositate de mundi machinis, de aëroplanis, de 'cloud infrastructure', semper ad fontem omnium rerum spectabat. Ipse non erat captivus terrae. Erat civis caeli. Cum Iesus dicit 'Sanctificetur nomen tuum', Ipse nos invitat ad videndum gloriam Dei in parvis rebus. Benjamin, in suo risu, in sua voluntate offerendi totum suum 'piggy bank' avunculo, iam orabat. Ipse non loquebatur, sed vivebat orationem.\n\nRyan, frater carissime, tu es pars huius amoris. Tu et Benjamin eratis sicut duae alae unius avis. Noli timere. Frater tuus non est longe. Ipse tecum est in omni ludo, in omni cogitatione tua. Perge vivere, perge studere, perge ridere, quia in tuo risu, Benjamin pergit in terra operari. Tu es spes familiae, et frater tuus te custodit ab altitudine caeli. Cum tu in somnio vel in silentio cubiculi sentis praesentiam eius, scito eum non abesse, sed esse quasi custodem iuxta viam. Benjamin non est in terra, sed in convivio caeli. Ipse, sicut angelus Dei, nunc intercedit pro vobis. Ipse non est vanus. Ipse est vivus in Deo.\n\nAd vos omnes qui hanc devotionem auditis—specialiter ad liberos qui aegrotant, ad familias quae crucem gravem circumferunt—scitote Deum non esse alienum a dolore vestro. Ipse descendit in foveam. Ipse est nobiscum in omne tempus. Quid ergo hodie portabitis tecum ex hoc ambo? Cum redieritis ad domum vestram, et forte in silentio sedebitis, nolite timere silentium. In silentio non habitat mors; in silentio habitat Deus, et cum eo habitat Benjamin. Respiros capite altiores. Dicite in corde vestro illam simplicem invocationem: 'Pater, tu es nobiscum.' Et permittite ut pax illa, quae omnem sensum superat, cor vestrum custodiat. Benjamin est in pace, in convivio caeli. Ipse vos amat, ipse vos custodit usque ad diem illum quo omnes iterum congregebimur in conspectu Patris. Nolite cogitare de eo quod vobis deest, sed cogitate de eo quod accepistis. Donum vitae Benjamin est aeternum. Ipse non periit. Ipse est in sinu Patris, ubi nullus dolor, nulla infirmitas, sed tantum amor et lux. Ambulate in hac spe. Vos estis amati. Vos estis tenentur in manibus Dei. Amen.",
+  "spiritual_communion": "Iesu mi, credo Te in Sanctissimo Sacramento praesentem. Te super omnia diligo, et Te in anima mea desidero. Quoniam nunc Te sacramentaliter accipere non possum, veni saltem spiritualiter in cor meum. Tamquam iam veneris, Te complector, et totum me Tibi unio; ne permittas me a Te umquam separari. Amen.",
+  "closing": "Benedicat vos Deus omnipotens, Pater, et Filius, et Spiritus Sanctus. Amen.",
+  "petition_call": "Oremus ad Dominum.",
+  "petition_response": "Domine, exaudi orationem nostram.",
+  "labels": {
+    "opening": "Exordium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Beniamino nostro et omnibus qui in pace Christi dormierunt, ut in luce aeterna requiescant, oremus ad Dominum.",
+    "Pro omnibus qui maerore afflicti sunt, ut Deus corda eorum consoletur et spem vivam in eis renovet, oremus ad Dominum."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Galatians 2:1-2, 7-14",
+      "text": "Fratres: Deinde post annos quattuordecim, iterum ascendi Ierosolymam cum Barnaba, assumpto et Tito. Ascendi autem secundum revelationem; et contuli cum illis Evangelium, quod praedico in gentibus, seorsum autem iis, qui videbantur aliquid esse, ne forte in vacuum currerem aut cucurrissem. Sed e contra, cum vidissent quod creditum est mihi Evangelium praeputii, sicut et Petro circumcisionis — qui enim operatus est Petro in apostolatum circumcisionis, operatus est et mihi inter gentes — et cum cognovissent gratiam, quae data est mihi, Iacobus et Cephas et Ioannes, qui videbantur columnae esse, dextras dederunt mihi et Barnabae societatis, ut nos in gentes, ipsi autem in circumcisionem; tantum ut pauperum memores essemus, quod et sollicitus fui hoc ipsum facere. Cum autem venisset Cephas Antiochiam, in faciem ei restiti, quia reprehensibilis erat. Prius enim quam venirent quidam a Iacobo, cum gentibus edebat; cum autem venissent, subtrahebat et segregabat se, timens eos, qui ex circumcisione erant. Et simulationi eius consenserunt et ceteri Iudaei, ita ut et Barnabas duceretur ab eis in illam simulationem. Sed cum vidissem quod non recte ambularent ad veritatem Evangelii, dixi Cephae coram omnibus: Si tu, cum Iudaeus sis, gentiliter et non iudaice vivis, quomodo gentes cogis iudaizare?"
+    },
+    {
+      "label": "Psalmus responsorius",
+      "cite": "Psalm 117:1bc, 2",
+      "text": "R. Ite in mundum universum, et praedicate Evangelium. Laudate Dominum, omnes gentes, collaudate eum, omnes populi! R. Ite in mundum universum, et praedicate Evangelium. Quoniam confirmata est super nos misericordia eius, et veritas Domini manet in aeternum. R. Ite in mundum universum, et praedicate Evangelium."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Luke 11:1-4",
+      "text": "Et factum est, cum esset in loco quodam orans, ut cessavit, dixit unus ex discipulis eius ad eum: Domine, doce nos orare, sicut et Ioannes docuit discipulos suos. Et ait illis: Cum oratis, dicite: Pater, sanctificetur nomen tuum; adveniat regnum tuum; panem nostrum cotidianum da nobis cotidie; et dimitte nobis peccata nostra, siquidem et ipsi dimittimus omni debenti nobis; et ne nos inducas in tentationem."
+    }
+  ],
+  "day": "Memorial of Our Lady of the Rosary",
+  "date": "2026-10-07",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Miss you a whole bunch. Crying all day yesterday, i hope today will be better. Please guide our family through this grief... There's a 14 year old boy that just left earth on August 12... His name is Phero Aden Vo - look for him, maybe you guys can be friends...\n\nPlease pray for me and mom to have good health and strength.\n\nI love and miss you Ben"
+    }
+  ]
+}
