@@ -1,0 +1,91 @@
+{
+  "day_local": "Tallimanngorniit Aqqannguani Tallimanngorniit Piviusumik Sivisussusermut",
+  "greeting": "Atataata, Irnip, ammalu Anersaap Illernartup ateqatigilluta. Tupailaaqtuq Ataniq qaninganiittuq, pilluaqqusimayuq iliassi.",
+  "penitential": "Ataniq, nalligigut.\nKristus, nalligigut.\nAtaniq, nalligigut.",
+  "psalm_response": "Nuna tamatta nalliginnarninganik Ataniup ulikkaarpuq.",
+  "homily": "Qanuq ilisimajariaqarpugut silami? Ukiut sivisuumik piffissaqarluta, silami takusugut qallunnat tulluarsimanianik. Ilisimaliqput utqqijuq iksivautami, takujuq qitiqquqsimajuq apqummut. Taimanna Ephesius-mi titiraqsimaninga uqaqtuq: 'Iksivautamut nirsuqpuq Atataup qaninganut, taima inuusiq tamatta ilitturijauniqtuq.' Ukiut tamaisa, takusugut qallunnat angijuq. Kisiani, qanurli inuusiup iluani?\n\nTakugitsi, ilisimaliqput inuusiup iluani suli qanuq pisimajuq. Taimanna Benjamin, qaujimajavut tallimat pivalliajut, nuannaartuq, qajangnartuq, pinniqtuq. Taanna nalligivikluq, nalligikpatiklu qitiqquqsimajuq. Ilisimaliqput inuusiup iluani, qanuq Benjamin asanniniqarpalaurmat, qanuq ataniq asannininga kikkutuinnarnut tunijaupalaurmat. Taimanna atautikkut, qaujimajavut qanugitilluta.\n\nKisiani, qanurli inuusiup iluani uqumaittuq? Nalunartuq inuusiq. Isumaqarpugut qanitilluta, kisiani piffissaq takulirnarmat uqumaittumik. Alan ammalu Thao, ammalu Ryan. Ilissiklu uqumaittumik atuqtut. Qaujimajavut uqumaittuq, qaujimajavut silataani inuusiq. Ilaannikkut ilisimajariaqarpugut qanurli iluani anersaq atuqtuq? Qanuq ilisimajariaqarpugut qanigijavut inuusiit?\n\nJesus uqaqtuq Gospel-mi: 'Ikummatinik tikitunga silami, ammalu qanuq piumavunga ikummalirniarmat!' Taanna ikummatinik uqaqtuq, naakkut kikkut ikummatinik atuliqtut. Ilisimajariaqarpugut asanniniq ikkuaqtuq. Jesus uqaqtuq, asanniniq ikkuaqtuq iluani inuusiup, sukkut asanniniq aniguqtilaaqtuq.\n\nBenjamin uqaqpalaurmat 'con chim airlines'-mik. Qanuq giggleqpalaurmat, qanuq quviasulluni uqalaurmat taakkuninga. Taanna qajuqtuq inuusiup iluani, ataniup asannininga ilisimallugu. Ilisimaliqput taanna asanniniq, kikkut nalligijavut aniguqtilaaqtut. Ryan, my dear brother, your brother Ben loved you. He was your partner. When you look at the sky, when you see a plane soaring high, remember that Ben's spirit is soaring too. He is free, he is full of light, and he is watching over you with a bright, gentle smile.\n\nKikkut ilissik uqumaittumik atuqtut, kikkut uqalurialiqtut iluani, nalligivikluq ataniq qaninganiittuq. Ilisimajariaqarpugut ataniq qaninganiittuq. Ilissik ilisimajariaqarpugut asanniniq aniguqtilaaqtuq. What can you carry out the door today? Take the peace of Christ. Take the memory of Benjamin's radiant smile. Know that you are deeply loved, held, and never alone.",
+  "spiritual_communion": "Jesusega, qaujimajunga Illernartumi Eucharist-miittutit. Asannivunga illit piunirluinnarlu. Inuusimnik tunivunga illit. Illit illuliqqujunga inuusimnut, qanigijaqattarlutillu. Amen.",
+  "closing": "Ataniup illuillugu ammalu miquqtippalliarlusi. Amen.",
+  "petition_call": "Ataniq, nalligigut.",
+  "petition_response": "Ataniq, uqaqtaugit.",
+  "labels": {
+    "opening": "Aularniq",
+    "penitential": "Nalliginnarniq",
+    "word": "Uqautsit",
+    "homily": "Uqautsit Piumanartut",
+    "petitions": "Tulurtaujut",
+    "communion": "Atautikut",
+    "closing": "Naggatniq"
+  },
+  "standing_petitions": [
+    "Benjamin Vo-mut ammalu kikkunnut toqusimajunut, Kristusup qaujitittinarningani inuunitsiarli.",
+    "Kikkunnut uqumaittumik atuqtunut, Ataniq nalligillugit qanuq pilluaqqusiarli."
+  ],
+  "readings": [
+    {
+      "label": "Siurleq Uqautsit",
+      "cite": "Ephesians 3:14-21",
+      "text": "Nalligijavut: Niguqtunga Atataup qaninganut, suli kikkut ilissik nalliunniarusi Anersaakkut iluani, Kristus illiqqunnaqtitaulluni nalliginnarninganut, ammalu asannininni qaujimajariaqarpugut kikkut tamarmik. Amen."
+    },
+    {
+      "label": "Tusalitautit",
+      "cite": "Psalm 33:1-2, 4-5, 11-12, 18-19",
+      "text": "Nuna tamatta nalliginnarninganik Ataniup ulikkaarpuq. Quviasuktuq Ataniq, nalliuviktuq."
+    },
+    {
+      "label": "Gospel",
+      "cite": "Luke 12:49-53",
+      "text": "Jesus uqaqtuq maligainut: 'Ikummatinik tikitunga silami, ammalu qanuq piumavunga ikummalirniarmat!'"
+    }
+  ],
+  "day": "Thursday of the Twenty-ninth Week in Ordinary Time",
+  "date": "2026-10-22",
+  "lang": "iu",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "What happened my son? It's been 3 months since you left us. Missing you so much my whole body aches. Mom cries every day now... What are we going to do now Ben?  Please pray for us."
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben,\n\nRafael Rizzo and his little brother Ben really need your help right now. Please bless them with good health and give them the strength to get through this together. Please watch over Brandon and Flor's health, too.\n\nI miss you a whole bunch. I know you're up in heaven watching over all of us. Whenever you're able to, stop by to visit, yeah? I love you and miss you so much!"
+    }
+  ]
+}
